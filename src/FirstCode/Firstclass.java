@@ -9,6 +9,8 @@ public class Firstclass {
 		System.out.println("Hello one");
 		System.out.println("After creating the new branch");
 		System.out.println("After getting pull request from master to branch");
+		System.out.println("pushed to master");
+
 	}
 
 }
