@@ -6,6 +6,7 @@ public class Thirdcode {
 		// TODO Auto-generated method stub
 
 		System.out.println("Thirsd code");
+
 	}
 
 }
